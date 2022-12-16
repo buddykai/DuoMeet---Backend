@@ -1,4 +1,4 @@
-# [DuoMeet-backend](https://github.com/mohit355/Duo-Meet-backend)
+# [DuoMeet-backend](https://github.com/buddykai/DuoMeet---Backend)
 
 #### Designed a peer to peerVideo callingweb application along withScreen sharingandChattingfunctionality. Used WebRTC for peer to peer connection. UI is clone of google meet using HTML,CSS-flexbox, and Reactjs. Used Nodejs, Expressjs, and MongoDB for handling backend functionality.
 
@@ -22,4 +22,4 @@
 5. After that you can **talk**, **chat** in the chatting box and also you can **share your screen**.
 
 ##### Click here to use it: [DuoMeet](https://duomeet355.web.app/)
-##### Checkout it's Frontend code : [Backend Code](https://github.com/mohit355/DuoMeet-frontend)
+##### Checkout it's Frontend code : [Frontend Code](https://github.com/buddykai/DuoMeet---Frontend)
