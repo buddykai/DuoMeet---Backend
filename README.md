@@ -1,4 +1,4 @@
-# [DuoMeet-backend](https://github.com/buddykai/DuoMeet---Backend)
+# [DuoMeet---Backend](https://github.com/buddykai/DuoMeet---Backend)
 
 #### Designed a peer to peerVideo callingweb application along withScreen sharingandChattingfunctionality. Used WebRTC for peer to peer connection. UI is clone of google meet using HTML,CSS-flexbox, and Reactjs. Used Nodejs, Expressjs, and MongoDB for handling backend functionality.
 
